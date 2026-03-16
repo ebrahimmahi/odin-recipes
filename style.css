@@ -1,10 +1,10 @@
 body{
-    background-color: #F7F8F0;
+    background-color: #B0E4CC;
 }
 
 
 .card{
-    background-color: #FFA6A6;
+    background-color: #408A71;
     display: block;
     padding: 30px;
     width: 300px;
@@ -15,14 +15,10 @@ body{
 }
 
 h1{
-    color: #355872;
+    color: #285A48;
     text-align: center;
 }
 
-li{
-    color: #7AAACE;
-}
-
-a{
-    color: #7AAACE;
+li, a{
+    color: #091413;
 }
