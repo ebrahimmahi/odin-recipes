@@ -1,0 +1,28 @@
+body{
+    background-color: #F7F8F0;
+}
+
+
+.card{
+    background-color: #FFA6A6;
+    display: block;
+    padding: 30px;
+    width: 300px;
+    height: 200px;
+    margin:  auto;
+    border-radius: 50px;
+    
+}
+
+h1{
+    color: #355872;
+    text-align: center;
+}
+
+li{
+    color: #7AAACE;
+}
+
+a{
+    color: #7AAACE;
+}
